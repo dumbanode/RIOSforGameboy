@@ -1,0 +1,12 @@
+RIOS for Gameboy
+Cameron Smith
+July 13 2020
+
+A port of RIOS (Riverside-Irvine Operating System) to the Nintendo Gameboy.
+More about RIOS can be viewed here: https://www.cs.ucr.edu/~vahid/rios/
+
+When you boot up the game there are 2 smilie faces.
+There are 3 tasks set up to run using RIOS for Gameboy.
+Task 1 is set up to change the sprite of the first smilie face every second.
+Task 2 is set up to change the sprite of the second smilie face every two seconds.
+Task 3 is set up to print to the background every three seconds.
